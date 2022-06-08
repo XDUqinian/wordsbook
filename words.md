@@ -3,7 +3,7 @@
 - periodical
   - adj. 周期的，定期的
   - n. （学术）期刊，杂志
-- perprtual
+- perpetual
   - adj. 永恒的，反复的，没完没了的
 - optimum
   - adj. 最适宜的，最有利的
